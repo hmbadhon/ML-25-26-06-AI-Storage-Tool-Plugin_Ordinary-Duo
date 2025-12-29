@@ -3,5 +3,8 @@
 
 ## 👥 Team Members
 
-- **Md Hasibul Malek Badhon**  
+- **Md Hasibul Malek Badhon**
   Matriculation No: `1629617`
+
+- **Shejuti Islam Lizin**
+  Matriculation No: `1564826`
