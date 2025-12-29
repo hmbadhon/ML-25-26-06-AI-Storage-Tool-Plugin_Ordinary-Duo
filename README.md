@@ -1,10 +1,10 @@
 # ML-25-26-06-AI-Storage-Tool-Plugin_Ordinary-Duo
 
 
-## 👥 Team Members
+## 👥 Project Members
 
-- **Md Hasibul Malek Badhon**
-  Matriculation No: `1629617`
+- **Md Hasibul Malek Badhon**  
+  Matriculation No: **1629617**
 
-- **Shejuti Islam Lizin**
-  Matriculation No: `1564826`
+- **Shejuti Islam Lizin**  
+  Matriculation No: **1564826**
